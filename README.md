@@ -12,10 +12,11 @@ In this lab, we learned how to make clock dividers from two types of counters.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+YongLin Chen & Troy Williams 
 
 ## Summary
 
-In this lab, We learned how ripple counters and modulo counters work as clock dividers. We got a better understanding of how each flip-flop in a ripple counter changes the frequency, and how a modulo counter can be designed to reset at a certain count to make different divide values. We also learned how full adders, D flip-flops, and T flip-flops can all work together in one circuit. This lab was definately the most confusing and technical and we ended up staying until the very end of class.
+In this lab, we learned how ripple counters and modulo counters work as clock dividers. We got a better understanding of how each flip-flop in a ripple counter changes the frequency, and how a modulo counter can be designed to reset at a certain count to make different divide values. We also learned how full adders, D flip-flops, and T flip-flops can all work together in one circuit. Although, the lab asked us to reused the full adder, D flip-flop, and T flip-flop implementation from previous labs, we still had to add other some additonal logic to ensure that it would behave the way that we need it to. This lab was definately the most confusing and technical and we ended up staying until the very end of class. 
 
 ## Lab Questions
 
